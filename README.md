@@ -1,4 +1,4 @@
-![joi Logo](https://raw.github.com/hapijs/joi/master/images/joi.png)
+![joi Logo](https://raw.github.com/nullfox/stump/master/images/logo.png)
 
 Object schema description language and validator for JavaScript objects.
 

@@ -1,8 +1,8 @@
 {
-  "name": "joi",
+  "name": "stump",
   "description": "Object schema validation",
   "version": "6.2.0",
-  "repository": "git://github.com/hapijs/joi",
+  "repository": "git://github.com/nullfox/stump",
   "main": "index",
   "keywords": [
     "schema",
